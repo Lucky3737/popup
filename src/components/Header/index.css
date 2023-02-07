@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bars {
+  height: 30px;
+  width: 30px;
+  margin-right: 50px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  height: 100px;
+  background-color: antiquewhite;
+  width: 100%;
+  align-items: center;
+}
+.logo {
+  height: 60px;
+  width: 60px;
+  margin-left: 50px;
+}
+.icons {
+  height: 80px;
+  width: 70px;
+}
+.home {
+  display: flex;
+}

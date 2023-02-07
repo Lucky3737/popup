@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.not {
+  height: 500px;
+  width: 500px;
+}
+.notFound {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
